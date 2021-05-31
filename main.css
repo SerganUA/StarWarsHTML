@@ -1,0 +1,8 @@
+body
+    {color: yellow;}
+.menu
+    {display: flex; align-items: center;}
+.menuItem
+    {margin: 10px;}
+
+
